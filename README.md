@@ -1,5 +1,21 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning C++<br>💬 Ask me about <br>⚡ Fun fact
+<!-- Typing SVG banner -->
+<p align="center">
+  <a href="https://github.com/whiteSHADOW1234/TypingSVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Hi+there!+I'm+Thomas;42+School+student;C%2B%2B+%26+Node.js+developer;Exploring+AI%2C+IoT+%26+Cloud" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+# 💫 About Me
+- 🔭 Just completed **ft_transcendence** (SPA project with Pong, chat & matchmaking)  
+- 🌱 Preparing for the **AWS Cloud AI certificate**  
+- 👯 Interested in collaborating on **AI, embedded systems, or creative coding tools**  
+- 🤝 Open to learning from others in **cloud, DevOps & edge computing**  
+- 💬 Ask me about **C/C++, Node.js backend, or learning paths at 42**  
+- ⚡ Fun fact: *I used to be a jazz musician before becoming a developer* 🎸💻  
+
+---
 
 
 ## 🌐 Socials:
